@@ -4,4 +4,4 @@ libsm6
 libxext6
 
 
-choose python 3.11 in Streamlit Deploying
+python 3.11
