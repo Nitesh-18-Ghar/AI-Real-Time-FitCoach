@@ -1,0 +1,7 @@
+libgl1
+libglib2.0-0t64
+libsm6
+libxext6
+
+
+choose python 3.11 in Streamlit Deploying
